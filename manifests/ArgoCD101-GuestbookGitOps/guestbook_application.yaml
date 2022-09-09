@@ -10,4 +10,4 @@ spec:
   project: default
   source:
     path: manifests/ArgoCD101-GuestbookApplicationManifests/
-    repoURL: https://github.com/<username>/ArgoCDRollouts
+    repoURL: https://github.com/leoluz/ArgoCDRollouts
